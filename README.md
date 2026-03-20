@@ -10,7 +10,7 @@ Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City Uni
 
 ---
 
-## 🌐 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-amiadamen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matthewamiadamen@gmail.com)
@@ -18,7 +18,7 @@ Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City Uni
 ---
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -71,7 +71,7 @@ Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City Uni
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=matthewamiadamen&theme=dark&hide_border=true)
 
