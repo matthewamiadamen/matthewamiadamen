@@ -1,6 +1,6 @@
-# Hi there, I'm Matthew 👋
+# Hi, I'm Matthew Ami
 
-Hey there I'm a 3rd year Computer Science student at **Dublin City University** have a passion for open source development, systems programming, and a budding interest in **computational biology**. I've built from low-level Unix shells in C to full-stack AI platforms presented to UN development partners.
+Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City University** have a passion for open source development, systems programming, and a budding interest in **computational biology**. I've built from low-level Unix shells in C to full-stack AI platforms presented to UN development partners.
 
 - Interested in opportunities at the intersection of **CS and computational biology**
 - Currently building **Cabhar** — an AI-powered platform helping workers in developing countries anonymously report workplace exploitation
@@ -16,44 +16,6 @@ Hey there I'm a 3rd year Computer Science student at **Dublin City University** 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matthewamiadamen@gmail.com)
 
 ---
-
-## 🛠️ Projects
-
-### 🌍 Cabhar — UN SDG Workplace Exploitation Platform
-`Python` `AI/ML` `Node.js` `React` `Docker`
-
-DCU Faculty of Computing initiative under Prof. Hyowon Lee, supporting UN Sustainable Development Goal 8 (Decent Work and Economic Growth).
-- Built an end-to-end platform enabling workers in developing countries to **anonymously report workplace exploitation**
-- Developed AI-driven complaint triaging that routes reports by severity and type to relevant NGOs and local authorities
-- Presented the platform to **DCU UN development partners** as a potential digital solution
-
----
-
-### 🧠 County Akinator — Multi-AI Guessing Game
-`JavaScript (ES5)` `Node.js` `Express` `React` `Gemini API` `ChatGPT API` `DeepSeek API`
-
-- Built a full-stack Akinator-style web app where three AI models (Gemini, ChatGPT, DeepSeek) compete to guess world counties
-- Integrated **Gemini as an AI adjudicator** to score which model provided the most accurate and efficient guesses
-- Deployed within an Einstein environment for real-time inference and seamless AI–UI interaction
-
----
-
-### 🖥️ Full C Shell Terminal
-`C` `Unix/Linux APIs`
-
-- Developed a custom Unix shell from scratch in C
-- Implemented command parsing, piping, I/O redirection, background process handling, and signal management
-- Supports both built-in and external commands with robust error handling
-
----
-
-### 🤟 AI Sign Language Interpreter
-`Python` `TensorFlow/PyTorch` `OpenCV`
-
-- Collected and preprocessed a webcam-captured hand gesture dataset
-- Trained a deep learning model to classify and track ASL hand movements in real-time
-- Deployed as a lightweight Python app for live ASL letter identification
-
 ---
 
 ## 💻 Tech Stack
@@ -70,7 +32,7 @@ DCU Faculty of Computing initiative under Prof. Hyowon Lee, supporting UN Sustai
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -84,7 +46,7 @@ DCU Faculty of Computing initiative under Prof. Hyowon Lee, supporting UN Sustai
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-**Cloud, DevOps & Tools**
+**DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -106,6 +68,45 @@ DCU Faculty of Computing initiative under Prof. Hyowon Lee, supporting UN Sustai
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+---
+
+##  Past Work
+
+###  Cabhar — UN SDG Workplace Exploitation Platform
+`Python` `AI/ML` `Node.js` `React` `Docker`
+
+DCU Faculty of Computing initiative under Prof. Hyowon Lee, supporting UN Sustainable Development Goal 8 (Decent Work and Economic Growth).
+- Built an end-to-end platform enabling workers in developing countries to **anonymously report workplace exploitation**
+- Developed AI-driven complaint triaging that routes reports by severity and type to relevant NGOs and local authorities
+- Presented the platform to **DCU UN development partners** as a potential digital solution
+
+---
+
+###  County Akinator — Multi-AI Guessing Game
+`JavaScript (ES5)` `Node.js` `Express` `React` `Gemini API` `ChatGPT API` `DeepSeek API`
+
+- Built a full-stack Akinator-style web app where three AI models (Gemini, ChatGPT, DeepSeek) compete to guess world counties
+- Integrated **Gemini as an AI adjudicator** to score which model provided the most accurate and efficient guesses
+- Deployed within an Einstein environment for real-time inference and seamless AI–UI interaction
+
+---
+
+###  Full C Shell Terminal
+`C` `Unix/Linux APIs`
+
+- Developed a custom Unix shell from scratch in C
+- Implemented command parsing, piping, I/O redirection, background process handling, and signal management
+- Supports both built-in and external commands with robust error handling
+
+---
+
+### AI Sign Language Interpreter
+`Python` `TensorFlow/PyTorch` `OpenCV`
+
+- Collected and preprocessed a webcam-captured hand gesture dataset
+- Trained a deep learning model to classify and track ASL hand movements in real-time
+- Deployed as a lightweight Python app for live ASL letter identification
 
 ---
 
