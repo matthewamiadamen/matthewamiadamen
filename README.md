@@ -6,7 +6,7 @@ Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City Uni
 - Currently building **Cabhar** its an AI-powered platform helping workers in developing countries anonymously report workplace exploitation
 - Looking to collaborate on **InniuGroup**, get in touch for more info
 - Attemping to deepen my skills in **full-stack development**, **cloud deployment**, and **ML/AI**
-- Open to open source contributions, research collaborations, and interesting projects
+- Open to open source contributions and interesting projects
 
 ---
 
