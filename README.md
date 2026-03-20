@@ -71,45 +71,6 @@ Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City Uni
 
 ---
 
-##  Past Work
-
-###  Cabhar — UN SDG Workplace Exploitation Platform
-`Python` `AI/ML` `Node.js` `React` `Docker`
-
-DCU Faculty of Computing initiative under Prof. Hyowon Lee, supporting UN Sustainable Development Goal 8 (Decent Work and Economic Growth).
-- Built an end-to-end platform enabling workers in developing countries to **anonymously report workplace exploitation**
-- Developed AI-driven complaint triaging that routes reports by severity and type to relevant NGOs and local authorities
-- Presented the platform to **DCU UN development partners** as a potential digital solution
-
----
-
-###  County Akinator — Multi-AI Guessing Game
-`JavaScript (ES5)` `Node.js` `Express` `React` `Gemini API` `ChatGPT API` `DeepSeek API`
-
-- Built a full-stack Akinator-style web app where three AI models (Gemini, ChatGPT, DeepSeek) compete to guess world counties
-- Integrated **Gemini as an AI adjudicator** to score which model provided the most accurate and efficient guesses
-- Deployed within an Einstein environment for real-time inference and seamless AI–UI interaction
-
----
-
-###  Full C Shell Terminal
-`C` `Unix/Linux APIs`
-
-- Developed a custom Unix shell from scratch in C
-- Implemented command parsing, piping, I/O redirection, background process handling, and signal management
-- Supports both built-in and external commands with robust error handling
-
----
-
-### AI Sign Language Interpreter
-`Python` `TensorFlow/PyTorch` `OpenCV`
-
-- Collected and preprocessed a webcam-captured hand gesture dataset
-- Trained a deep learning model to classify and track ASL hand movements in real-time
-- Deployed as a lightweight Python app for live ASL letter identification
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=matthewamiadamen&theme=dark&hide_border=true)
