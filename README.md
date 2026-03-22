@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Ami
 
-Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City University** have a passion for open source development, systems programming, and a budding interest in **computational biology**. I've built from low-level Unix shells in C to full-stack AI platforms presented to UN development partners.
+Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City University** have a passion for development, systems programming, and a budding interest in **computational biology**. I've built from low-level Unix shells in C to full-stack AI platforms presented to UN development partners.
 
 - Interested in opportunities at the intersection of **CS and computational biology**
 - Currently building **Cabhar** its an AI-powered platform helping workers in developing countries anonymously report workplace exploitation
