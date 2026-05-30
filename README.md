@@ -68,11 +68,3 @@ Hey there whats up, I'm a 3rd year Computer Science student at **Dublin City Uni
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
----
-
-## GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=matthewamiadamen&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewamiadamen&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
