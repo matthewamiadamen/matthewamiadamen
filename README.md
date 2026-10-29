@@ -1,22 +1,35 @@
-# Hi, I'm Matthew Ami
+# Hi, I'm Matthew Amiadamen
 
-Hey, whats up. I'm a Software Engineer at ACMR and a Computer Science student at **Dublin City University**. I like building things, mostly across systems programming and AI, and I've gone from writing a low-level Unix shell in C to full-stack AI platforms. These days a lot of my work is figuring out how to actually put apply AI to real use, not just for its own sake.
+Final-year Computer Science student at **Dublin City University**. I build AI systems that real people use: agentic platforms on AWS, real-time computer vision, and geospatial tools. Lately I'm pointing all of it at **neural decoding**. What I most want to build is the machine learning behind brain-computer interfaces: the models that turn noisy neural signals into something a person can use.
 
-- Building **Lámha**, a tool that helps students in local schools learn Irish Sign Language. It started as a side project and now runs in a few schools near me.
-- Worked on **Cabhar** as a research assistant at DCU, an AI platform that helps workers in developing countries anonymously report workplace exploitation.
-- Always up for open source contributions and interesting projects, get in touch.
+- 🧠 Building a **cross-subject SSVEP brain-computer interface**, working through the ML from the maths up: covariance matrices, Riemannian geometry, CCA, and why a model trained on one brain fails on another.
+- 🤟 **Lámha** helps students learn Irish Sign Language and runs in post-primary schools around Dublin.
+- 🔐 Working on **Mayfain**, a verified-identity layer that lets AI agents act for people through sanctioned MCP integrations, without seeing their raw data.
+- ⚙️ Day to day: LLM routing on Amazon Bedrock, vector search and embeddings, multi-tenant PostgreSQL with row-level security, and event-driven jobs on ECS and EventBridge.
 
 ---
 
 ## Things I've built
 
-**Lámha** — Won the Create It track at the Craicathon Irish language hackathon. Bridges Irish Sign Language and the Irish-speaking community, and is now deployed in a few Dublin area schools as a learning tool. Real-time hand gesture recognition (MediaPipe + a custom KNN classifier) running fully in-browser, no paid APIs.
+**Cross-subject SSVEP BCI** *(in progress)*: decodes which flickering target someone is looking at from their EEG, without calibrating on them first. The core ML problem is that every brain is different, so a decoder trained on one person drifts on the next. I'm comparing three transfer-learning answers to that: Euclidean Alignment (whitening each subject's covariance so their data lines up), Riemannian Alignment (doing the same on the curved space covariance matrices actually live in) and stCCA (transferring spatial and temporal templates). All three run under leave-one-subject-out evaluation on the Tsinghua SSVEP Benchmark (35 subjects, 40 targets). Then the real question: do the rankings from 64-channel lab EEG still hold on a 4-channel consumer montage like the OpenBCI Ganglion? My bet is that Riemannian Alignment's edge shrinks there, because the covariance structure it exploits thins out with so few channels.
 
-**GrianView** — A free tool that lets any Belfast homeowner check if their roof is suitable for solar, built off the city's own public LiDAR data. Presented at HackBelfast. There's an LLM layer that turns dense geospatial metrics into plain-language reports anyone can read.
+**GrianView**: tells any Belfast homeowner whether their roof suits solar, using the city's public LiDAR data. Built with a PhD researcher at Queen's University Belfast: ArcGIS solar radiation over 52,872 buildings, a 5-factor suitability scorer, live 3D rendering in Three.js, and an LLM layer that writes plain-language payback and CO₂ reports.
 
-**Cabhar** — AI complaint triaging for a workplace-exploitation reporting platform at DCU (UN SDG 8), routing reports by severity to the right NGOs.
+**Lámha**: won the Create It track at Craicathon. Real-time Irish Sign Language recognition in the browser (MediaPipe hand landmarks and a custom KNN classifier) at 85% accuracy, with no paid APIs. Now used as a learning tool in Dublin-area schools.
 
-**Parallel** — A game theory engine that gives each actor in a scenario its own AI agent and runs them in parallel across isolated sandboxes to predict outcomes.
+**Mayfain**: a trust layer between people, their AI agents and the institutions they deal with. Agents act for a person through sanctioned integrations built with institutions, using MCP, rather than scraping forms, and sensitive details stay protected the whole way. Selected as one of 10 teams for Pressure Cooker at Dublin AI Week 2026.
+
+**Cabhar**: NLP complaint triage (spaCy, scikit-learn) for a UN SDG 8 platform at DCU, routing workplace-exploitation reports to the right NGOs at 98% accuracy.
+
+**Parallel**: a game theory engine that gives each actor in a scenario its own AI agent and runs them in parallel across isolated Daytona sandboxes.
+
+---
+
+## Recognition
+
+- 🥇 **Bloomberg bpuzzled, 1st place**: team Cubits scored 8/9, at the time the highest score by any Irish university team in the competition's history.
+- 🏆 **Craicathon, Create It track winner** (Lámha).
+- 🚀 **Pressure Cooker, Dublin AI Week 2026**: one of 10 teams selected (Mayfain).
 
 ---
 
@@ -37,9 +50,6 @@ Hey, whats up. I'm a Software Engineer at ACMR and a Computer Science student at
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frameworks**
 
