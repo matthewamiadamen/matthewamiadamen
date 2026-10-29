@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Ami
 
-Hey, whats up. I'm a 3rd year Computer Science student at **Dublin City University**. I like building things, mostly across systems programming and AI, and I've gone from writing a low-level Unix shell in C to full-stack AI platforms. These days a lot of my work is figuring out how to actually put apply AI to real use, not just for its own sake.
+Hey, whats up. I'm a SWE at ACMR and a aComputer Science student at **Dublin City University**. I like building things, mostly across systems programming and AI, and I've gone from writing a low-level Unix shell in C to full-stack AI platforms. These days a lot of my work is figuring out how to actually put apply AI to real use, not just for its own sake.
 
 - Building **Lámha**, a tool that helps students in local schools learn Irish Sign Language. It started as a side project and now runs in a few schools near me.
 - Worked on **Cabhar** as a research assistant at DCU, an AI platform that helps workers in developing countries anonymously report workplace exploitation.
