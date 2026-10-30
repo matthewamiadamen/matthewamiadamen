@@ -1,8 +1,9 @@
 # Hi, I'm Matthew Ami
 
-Hey, whats up. I'm a Software Engineer at ACMR and a Computer Science student at **Dublin City University**. I like building things, mostly across systems programming and AI, and I've gone from writing a low-level Unix shell in C to full-stack AI platforms. These days a lot of my work is figuring out how to actually put apply AI to real use, not just for its own sake.
+Hey, whats up. I'm a Software Engineer at ACMR and a Computer Science student at **Dublin City University**. I like building things, mostly across systems programming and AI, and I've gone from writing a low-level Unix shell in C to full-stack AI platforms. A lot of my work is on AWS, building and optimising production AI systems: LLM routing, vector search and getting latency down.
 
 - Building **Lámha**, a tool that helps students in local schools learn Irish Sign Language. It started as a side project and now runs in a few schools near me.
+- Getting into **neural decoding**: building a cross-subject SSVEP brain-computer interface, and especially interested in hosting, optimising and fine-tuning the ML models behind BCIs in the cloud.
 - Worked on **Cabhar** as a research assistant at DCU, an AI platform that helps workers in developing countries anonymously report workplace exploitation.
 - Always up for open source contributions and interesting projects, get in touch.
 
@@ -37,7 +38,6 @@ Hey, whats up. I'm a Software Engineer at ACMR and a Computer Science student at
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
