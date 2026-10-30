@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Ami
 
-Hey, whats up. I'm a Software Engineer at ACMR and a Computer Science student at **Dublin City University**. I like building things, mostly across systems programming and AI, and I've gone from writing a low-level Unix shell in C to full-stack AI platforms. A lot of my work is on AWS, building and optimising production agentic systems: multi-model orchestration, vector search and getting latency down.
+Hey, whats up. I'm a Software Engineer at ACMR and a Computer Science student at **Dublin City University**. I like building things, mostly across systems programming and AI, and I've gone from writing a low-level Unix shell in C to full-stack AI platforms. A lot of my work is on AWS, building and optimising production agentic systems: inference routing, vector search and getting latency down.
 
 - Building **Lámha**, a tool that helps students in local schools learn Irish Sign Language. It started as a side project and now runs in a few schools near me.
 - Getting into **neural decoding**: building a cross-subject SSVEP brain-computer interface, and especially interested in hosting, optimising and fine-tuning the ML models behind BCIs in the cloud.
